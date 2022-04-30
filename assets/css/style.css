@@ -76,7 +76,11 @@ button{
     background-color: black;
    
 } 
-
+h2{
+   font-family: 'Orbitron', sans-serif;
+   margin-top: -68px; 
+   color: white;
+}
 #reset{
     background-color: white;
     color:#000;
